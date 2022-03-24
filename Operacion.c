@@ -8,7 +8,7 @@ int suma(int a, int b){
 int resta (int a, int b){
  Return a-b;
 } 
- 
+  
 int main(){ 
 int num1 = 12; 
 int num2 = 3; 
